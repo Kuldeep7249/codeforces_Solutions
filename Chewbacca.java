@@ -1,4 +1,3 @@
-package Codeforces;
 import java.util.*;
 public class Chewbacca {
     public static void main(String[] args) {

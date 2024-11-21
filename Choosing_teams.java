@@ -1,4 +1,3 @@
-package Codeforces;
 import java.util.Scanner;
 public class Choosing_teams {
     public static void main(String[] args) {
